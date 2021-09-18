@@ -1,0 +1,3 @@
+Created on 19 sep 2021:
+The repo is about the account balance of user and how much he lefted 
+after withdrawing the money from bank acc.
